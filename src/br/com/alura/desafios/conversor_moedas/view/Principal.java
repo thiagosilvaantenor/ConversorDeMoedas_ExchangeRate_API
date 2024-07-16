@@ -77,6 +77,8 @@ public class Principal {
                     break;
                 case 7:
                     break;
+                default:
+                    System.out.println("Erro, opção invalida, tente novamente!");
             }
         }
     }
